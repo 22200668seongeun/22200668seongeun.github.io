@@ -1,14 +1,14 @@
 # Site
-title:              Moon
-bio:                'Minimal, one column jekyll theme.'
-description:        "Moon is a minimal, one column jekyll theme for your blog."
+title:              정성은
+bio:                '성장하는 UXER가 되겠습니다.'
+description:        "성장하는 UXER."
 reading_time:       true
 words_per_minute:   200
-logo:               'assets/img/logo.png'
+logo:               'https://github-production-user-asset-6210df.s3.amazonaws.com/130717706/241587245-a3979057-84bb-429d-adea-dc39c9f76d2d.png'
 background:         'assets/img/placeholder-big.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
-url:                https://taylantatli.github.io/Moon
+url:                https://22200668seongeun.github.io/
 
 # Jekyll
 permalink:          /:title/
@@ -37,14 +37,14 @@ disqus_shortname:   taylantatli
   #ad-client:
   #ad-slot:
 #bing-verify:
-#email:
+#email:             i101328@handong.ac.kr
 twitter:            username
 facebook:           username
-github-url:         username
+github-url:         "https://github.com/22200668seongeun"
 #stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
 #linkedin:          username
 #xing:              username
-instagram:          username
+instagram:          "https://instagram.com/s_.rlo?igshid=ZDc4ODBmNjlmNQ=="
 #lastfm:            username
 #tumblr:            username
 #medium:            '@username'
