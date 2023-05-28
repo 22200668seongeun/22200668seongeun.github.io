@@ -40,11 +40,11 @@ disqus_shortname:   taylantatli
 #email:             i101328@handong.ac.kr
 twitter:            username
 facebook:           username
-github-url:         "https://github.com/22200668seongeun"
+github-url:         'https://github.com/22200668seongeun'
 #stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
 #linkedin:          username
 #xing:              username
-instagram:          "https://instagram.com/s_.rlo?igshid=ZDc4ODBmNjlmNQ=="
+instagram:         'https://instagram.com/s_.rlo?igshid=ZDc4ODBmNjlmNQ=='
 #lastfm:            username
 #tumblr:            username
 #medium:            '@username'
